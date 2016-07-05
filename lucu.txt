@@ -1,4 +1,8 @@
 Hello World!
 A new branch.
 lucu branch.
+<<<<<<< HEAD
 Master
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> lucu
